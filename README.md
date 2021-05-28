@@ -1,5 +1,8 @@
-# HDF-View
-Visualizador de imagens HDF criado na disciplina de PBN (FACIN-PUCRS)
+# HDR-View
+Visualizador de imagens HDR criado na disciplina de PSB (FACIN-PUCRS)
+
+# Alunos
+- Alessandro Borges de Souza
 
 # Requisitos
 - GLU
@@ -7,7 +10,7 @@ Visualizador de imagens HDF criado na disciplina de PBN (FACIN-PUCRS)
 
 # GCC
 ```bash
-gcc main.c opengl.c -o hdf -lglut -lGL -lGLU -lm
+gcc main.c opengl.c -o hdr -lglut -lGL -lGLU -lm
 ```
 
 # Uso
